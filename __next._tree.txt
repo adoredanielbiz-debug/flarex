@@ -1,4 +1,4 @@
-:HL["/flarex/_next/static/chunks/228nawar_synw.css","style"]
+:HL["/flarex/_next/static/chunks/3ue70mlmo-ndq.css","style"]
 :HL["/flarex/_next/static/media/nhg_display_300.p.3mt7gf0u7xdjm.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/flarex/_next/static/media/nhg_display_400.p.3ebuyogdqlwif.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/flarex/_next/static/media/nhg_display_500.p.0bsaecilf5kda.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -12,4 +12,4 @@
 :HL["/flarex/img/logo-ozow.png","image"]
 :HL["/flarex/img/app-mockup.png","image"]
 :HL["/flarex/img/flarex-logo.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"s_fwP_mYXkqYs1zPzIHlN"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"-NRPcRdju03ICFnMnwHrh"}
